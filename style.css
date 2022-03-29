@@ -1,0 +1,60 @@
+h1 {
+	color: #0081A7;
+	font-size: 52px;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+
+h2	{
+	color: #f07167;
+	font-family: 'Permanent Marker', cursive;
+}
+
+h3	{
+	color: #00afb9;
+	font-size: 30px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+	background-color: #fdfcdc;
+}
+
+p {
+	color: #00afb9;
+	font-size: 30px;
+	font-family: 'Josefin Sans', sans-serif;
+
+
+}
+div	{
+	width: 800px;
+	background-color: #f4e285;
+	text-align: center;
+	border-radius: 20px;
+	margin: 0 auto;
+	box-shadow: 10px 10px 30px #f6bd60;
+}
+
+#logo {
+	border-radius: 50%;
+	width: 150px;
+	height: 180px;
+	object-fit: cover;
+	object-position: top;
+}
+
+.fa-brands {
+	color: #F07167 ;
+	font-size: 50px;
+}
+
+.fa-regular {
+	color: #F07167 ;
+	font-size: 50px;
+}
+
+.fa-solid {
+	color: #F07167 ;
+	font-size: 50px;
+}
